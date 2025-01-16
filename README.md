@@ -45,7 +45,8 @@ The goal of this project is to derive actionable insights from business data usi
 ## Project Structure
 business-analysis-mysql/
 ├── queries/
-│   ├── Buisness_Analysis.sql
+Part-1.sql
+Part-2.sql
 └── README.md
 
 ## Sample insights
