@@ -48,7 +48,7 @@ business-analysis-mysql/
 │   ├── Buisness_Analysis.sql
 └── README.md
 
-## Sample Insight
+#sample-insights
 Customer Insights
 Recognized key contributors to the company's revenue, offering insights for targeted engagement strategies.
 Identified areas for enhancing customer experience and retention, focusing on high-value clients.
@@ -69,5 +69,5 @@ Employee Sales Performance
 Emphasized exceptional performance by top sales representatives, showcasing their impact on revenue growth.
 Insights into workforce productivity provided a roadmap for nurturing talent and optimizing performance.
 
-Acknowledgments
+#acknowledgments
 Thanks to NIIT for providing the datasets and resources for this analysis.
