@@ -8,7 +8,6 @@ This repository contains a business analysis project performed using MySQL. The 
 - [Analysis Tasks](#analysis-tasks)
 - [Project Structure](#project-structure)
 - [Sample Insights](#sample-insights)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -69,6 +68,3 @@ Pinpointed products with high demand, presenting opportunities for expanding off
 Employee Sales Performance
 Emphasized exceptional performance by top sales representatives, showcasing their impact on revenue growth.
 Insights into workforce productivity provided a roadmap for nurturing talent and optimizing performance.
-
-## Acknowledgments
-Thanks to NIIT for providing the datasets and resources for this analysis.
